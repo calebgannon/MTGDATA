@@ -4,7 +4,7 @@ Everything in this repository is open to the public and free to use.
 
 We will be using the honor rule for uploading true data, please don't ruin things for everyone by uploading fabricated data.
 
-To upload decklists: Follow the directions on the youtube video ->
+To upload decklists: Follow the directions on the youtube video -> https://www.youtube.com/watch?v=3eO9jzBYZHk
   or
 Export deck in .csv format from MTGO. 
 Add record information for both matches and games at the indicated locations in the sample file-> ("Sealed Deck Example")
