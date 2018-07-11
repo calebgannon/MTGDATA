@@ -1,0 +1,45 @@
+Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,
+"Swamp",5,68707,Basic Land,M19,272/280,No,No
+"Tranquil Expanse",2,68681,Common,M19,259/280,No,No
+"Cancel",1,68257,Common,M19,48/280,No,No
+"Manalith",1,68641,Common,M19,239/280,No,No
+"Salvager of Secrets",3,68301,Common,M19,70/280,No,No
+"Skeleton Archer",1,68397,Common,M19,118/280,No,No
+"Macabre Waltz",1,68377,Common,M19,108/280,No,No
+"Vaevictis Asmadi, the Dire",1,68613,Mythic Rare,M19,225/280,No,No
+"Take Vengeance",1,68241,Common,M19,40/280,No,No
+"Explosive Apparatus",1,68629,Common,M19,233/280,No,No
+"Island",5,68699,Basic Land,M19,268/280,No,No
+"Murder",2,68381,Uncommon,M19,110/280,No,No
+"Fountain of Renewal",1,68633,Uncommon,M19,235/280,No,No
+"Regal Bloodlord",1,68607,Uncommon,M19,222/280,No,No
+"Explosive Apparatus",1,68630,Common,M19,233/280,Yes,No
+"Meandering River",1,68669,Common,M19,253/280,No,No
+"Strangling Spores",1,68405,Common,M19,122/280,No,No
+"Gift of Paradise",2,68529,Uncommon,M19,184/280,No,No
+"Nightmare's Thirst",1,68383,Uncommon,M19,111/280,No,No
+"Switcheroo",1,68317,Uncommon,M19,78/280,No,No
+"Lich's Caress",1,68371,Common,M19,105/280,No,No
+"Essence Scatter",1,68269,Common,M19,54/280,No,No
+"Forest",4,68723,Basic Land,M19,280/280,No,No
+"Colossal Dreadmaw",1,68505,Common,M19,172/280,No,No
+
+"Daybreak Chaplain",1,68181,Common,M19,10/280,No,Yes
+"Rustwing Falcon",1,68233,Common,M19,36/280,No,Yes
+"Skeleton Archer",1,68397,Common,M19,118/280,No,Yes
+"Trusty Packbeast",1,68243,Common,M19,41/280,No,Yes
+"Totally Lost",1,68323,Common,M19,81/280,No,Yes
+"Macabre Waltz",1,68377,Common,M19,108/280,No,Yes
+"Mind Rot",1,68379,Common,M19,109/280,No,Yes
+"Gift of Paradise",1,68529,Uncommon,M19,184/280,No,Yes
+"Highland Game",1,68537,Common,M19,188/280,No,Yes
+"Root Snare",1,68559,Common,M19,199/280,No,Yes
+"Scholar of Stars",1,68303,Common,M19,71/280,No,Yes
+"Druid of the Cowl",1,68515,Common,M19,177/280,No,Yes
+"Snapping Drake",1,68311,Common,M19,75/280,No,Yes
+"Epicure of Blood",1,68351,Common,M19,95/280,No,Yes
+"Walking Corpse",1,68413,Common,M19,126/280,No,Yes
+"Duress",1,68349,Common,M19,94/280,No,Yes
+"Island",1,68695,Basic Land,M19,266/280,No,Yes
+"Island",1,68697,Basic Land,M19,267/280,No,Yes
+"Mountain",1,68714,Basic Land,M19,275/280,Yes,Yes
